@@ -2,10 +2,6 @@
 
 Smart Home Integration is a full-stack web application that enables users to manage and control their smart home devices efficiently. This system provides a centralized interface to monitor and interact with connected devices, enhancing the comfort, security, and automation of a smart home environment.
 
-## 🔗 Live Demo
-
-> https://smart-home-integration-website.onrender.com
-
 ## 🧠 Features
 
 - 🏠 Dashboard for monitoring connected devices  
