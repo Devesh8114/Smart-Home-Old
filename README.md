@@ -98,8 +98,3 @@ npm run dev
 cd ../frontend
 npm run dev
 ```
-
-## 🧑‍💻 Author
-
-#### Nizam
-[![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nizam6239)
